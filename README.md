@@ -1,9 +1,4 @@
-# Ecuaciones Diferenciales A - Ecuaciones Diferenciales B — Primer cuatrimestre de 2017
-
-## Equipo docente
-
-- **Clases teóricas:** Claudia Lederman
-- **Clases prácticas:** Ariel Salort, Javier Brude
+# Ecuaciones Diferenciales — Primer cuatrimestre de 2017
 
 ## Prácticas
 
